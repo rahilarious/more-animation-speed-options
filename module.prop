@@ -1,0 +1,6 @@
+id=MoreAnimationSpeedOptions
+name=More Animation Speed options (Android 7 or up)
+version=v1
+versionCode=1
+author=plethorahil
+description=Find that sweet spot for animation speed with added 0.25x 0.75x 1.25x 1.75x values
